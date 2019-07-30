@@ -14,10 +14,16 @@ This hardware is released under the [CREATIVE COMMONS ATTRIBUTION - SHARE ALIKE 
 
 Please see the LICENSE file for more information about copying and distribution
 
+BOM 
 ---
+https://octopart.com/bom-tool/NGFoe5pd
+
+
 If you want to purchase an assembly kit you can find them here:
 
-[**US**: @ https://teknomadix.store](https://teknomadix.store)  *limited supply*
-
 [**WORLD**: @ https://openinverter.org](https://openinverter.org)
+
+<del>[**US**: @ https://teknomadix.store](https://teknomadix.store)  *limited supply*</del>
+
+
 
