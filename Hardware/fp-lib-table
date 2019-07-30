@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "base_board6")(type Legacy)(uri "/Users/teknomadix/Documents/eagle/STMSine/2.0/kicad/base_board6.mod")(options "")(descr ""))
+)

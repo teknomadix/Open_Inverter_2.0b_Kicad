@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name base_board6)(type Legacy)(uri /Users/teknomadix/Documents/Teknomadix/OpenInverter_2.0b/OpenInverter_20b.lib)(options "")(descr ""))
+  (lib (name OpenInverter_20b-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/OpenInverter_20b-v2-rescue.lib)(options "")(descr ""))
+)
