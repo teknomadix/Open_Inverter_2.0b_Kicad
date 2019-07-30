@@ -17,7 +17,7 @@ Please see the LICENSE file for more information about copying and distribution
 ---
 If you want to purchase an assembly kit you can find them here:
 
-[**US**: @ https://teknomadix.shop](https://teknomadix.shop)  *limited supply*
+[**US**: @ https://teknomadix.store](https://teknomadix.store)  *limited supply*
 
 [**WORLD**: @ https://openinverter.org](https://openinverter.org)
 
