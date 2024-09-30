@@ -23,7 +23,6 @@ If you want to purchase an assembly kit you can find them here:
 
 [**WORLD**: @ https://openinverter.org](https://openinverter.org)
 
-<del>[**US**: @ https://teknomadix.store](https://teknomadix.store)  *limited supply*</del>
 
 
 
